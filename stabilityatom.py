@@ -1,4 +1,3 @@
-
 A=int(input('A:'))
 P=int(input('P:'))
 
@@ -30,4 +29,3 @@ r=0.001
 print(Ec,Ec/A)
 print(str(R)+"* 10**-13")
 print("Probability of Spontaneous Fission: ",P**2/A ,",45 ≈ 100%")
-
