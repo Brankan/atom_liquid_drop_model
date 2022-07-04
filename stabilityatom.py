@@ -7,7 +7,7 @@ y = 0.71
 e = 23.7
 x = 34
 
-if (A - P)% 2 == 0 and P % 2 == 0:
+if (A - P) % 2 == 0 and P % 2 == 0:
     onlyo = +34
 else:
     if A% 2 != 0:
